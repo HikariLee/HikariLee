@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @HikariLee
-- 👀 I’m interested in video games, manga/anime and some homemade espresso
-- 🌱 I’m currently learning C# and Node.js
+- 👋 Student dev in Diploma in Software Development
+- 🌱 I’m currently learning C#, React, Bootstrap
 
 <!---
 HikariLee/HikariLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
