@@ -1,6 +1,6 @@
 <h2>I'm Liam!</h2>
 - 👋 Graduate developer who studied a Diploma in Software Development @ TAFE NSW </br>
-- 🌱 I’m currently learning Typescript and <a href="https://playwright.dev/">Playwright</a> </br>
+- 🌱 I’m currently learning Typescript, Node.js and <a href="https://playwright.dev/">Playwright</a> </br>
 - 🔭 I’m currently working on <a href="https://github.com/LeeHikari/LGA-Events">LGA-Events</a> </br>
 - 😎 Pronouns he/him
 
